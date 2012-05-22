@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alea", "dice\Alea.csproj", "{D832213D-8E94-44F2-A9A7-974A4ABA27BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D832213D-8E94-44F2-A9A7-974A4ABA27BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D832213D-8E94-44F2-A9A7-974A4ABA27BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D832213D-8E94-44F2-A9A7-974A4ABA27BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D832213D-8E94-44F2-A9A7-974A4ABA27BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D832213D-8E94-44F2-A9A7-974A4ABA27BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D832213D-8E94-44F2-A9A7-974A4ABA27BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
